@@ -1,6 +1,6 @@
-https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11f1p_sd15_depth.safetensors
-https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11p_sd15_canny.safetensors
-https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11p_sd15_lineart.safetensors
-https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11p_sd15_openpose.safetensors
-https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11p_sd15_softedge.safetensors
-https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/ip-adapter-plus_sd15.safetensors
+#https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11f1p_sd15_depth.safetensors
+#https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11p_sd15_canny.safetensors
+#https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11p_sd15_lineart.safetensors
+#https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11p_sd15_openpose.safetensors
+#https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/control_v11p_sd15_softedge.safetensors
+#https://huggingface.co/StableDiffusionVN/Prunedcontrolnet/resolve/main/ip-adapter-plus_sd15.safetensors
