@@ -1,0 +1,19 @@
+git clone https://github.com/Mikubill/sd-webui-controlnet /content/SDVN/extensions/sd-webui-controlnet
+git clone https://github.com/phamhungd/sd-webui-lora-block-weight /content/SDVN/extensions/Block-weight
+git clone https://github.com/thomasasfk/sd-webui-aspect-ratio-helper /content/SDVN/extensions/AR-helper
+git clone https://github.com/ArtVentureX/sd-webui-agent-scheduler /content/SDVN/extensions/Agent-scheduler
+git clone https://github.com/hako-mikan/sd-webui-supermerger /content/SDVN/extensions/Supermerger
+git clone https://github.com/adieyal/sd-dynamic-prompts /content/SDVN/extensions/Dynamic-prompts
+git clone https://github.com/Bing-su/adetailer /content/SDVN/extensions/A2-Adetailer
+git clone -b sdvn https://github.com/phamhungd/sd-civitai-browser /content/SDVN/extensions/Civitai
+git clone https://github.com/huchenlei/sd-webui-openpose-editor /content/SDVN/extensions/OpenposeEditor
+#git clone https://github.com/phamhungd/RoopSD /content/SDVN/extensions/RoopSD
+#aria2c --continue --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/phamhungd/GuoZovya/resolve/main/inswapper_128.onnx -d /content/SDVN/extensions/RoopSD/models  -o inswapper_128.onnx
+git clone https://github.com/uwidev/sd_extension-prompt_formatter /content/SDVN/extensions/Prompt_formatter
+git clone https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 /content/SDVN/extensions/Ultimate-upscale
+git clone https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111 /content/SDVN/extensions/Multidiffusion-upscaler
+git clone https://github.com/huchenlei/sd-webui-controlnet-evaclip /content/SDVN/extensions/sd-webui-controlnet-evaclip
+git clone https://github.com/hako-mikan/sd-webui-cd-tuner /content/SDVN/extensions/sd-webui-cd-tuner
+pip install insightface
+pip install basicsr
+pip install triton

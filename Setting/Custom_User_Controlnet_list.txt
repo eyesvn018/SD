@@ -1,0 +1,5 @@
+https://huggingface.co/StableDiffusionVN/Basecontrolnet/resolve/main/Basev11/control_v11p_sd15_canny.safetensors
+https://huggingface.co/StableDiffusionVN/Basecontrolnet/resolve/main/Basev11/control_v11p_sd15_lineart.safetensors
+https://huggingface.co/StableDiffusionVN/Basecontrolnet/resolve/main/Basev11/control_v11p_sd15_openpose.safetensors
+https://huggingface.co/StableDiffusionVN/Basecontrolnet/resolve/main/Basev11/control_v11p_sd15_scribble.safetensors
+https://huggingface.co/StableDiffusionVN/Basecontrolnet/resolve/main/Basev11/control_v11f1p_sd15_depth.safetensors
