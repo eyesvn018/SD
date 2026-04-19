@@ -1,2 +1,2 @@
-https://civitai.red/api/download/models/9747@=Chilloutmix
+https://civitai.red/api/download/models/9474?type=Model&format=SafeTensor&size=full&fp=fp16@=Chilloutmix
 https://huggingface.co/StableDiffusionVN/Checkpoint/blob/main/SD15/Real/RealisticVision-v51.inpainting.safetensors@=RealisticVisionv5.inpainting
