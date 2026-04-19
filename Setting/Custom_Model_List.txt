@@ -1,2 +1,2 @@
-https://huggingface.co/StableDiffusionVN/Checkpoint/resolve/main/SD15/Real/RealisticVision-v5.safetensors@=RealisticVision-v5
+https://civitai.com/api/download/models/11732?type=Model&format=SafeTensor&size=full&fp=fp16
 https://huggingface.co/StableDiffusionVN/Checkpoint/resolve/main/SD15/Real/RealisticVision-v51.inpainting.safetensors@=RealisticVision-v51.inpainting
